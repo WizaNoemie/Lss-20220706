@@ -8,8 +8,6 @@
 |**注意事项**|
 |:---------|
 |**如果能继续使用的，请保持低调！！！**|
-|**![捕获1](https://user-images.githubusercontent.com/72486732/132205566-238ff619-6e57-4379-aa74-089d3a582d44.PNG) Fork本项目后将readme.md中的Dimitri2020007替换为自己的用户名后再进行部署，非常重要，切记！！！！**|
-|**若出现We couldn't deploy your app because the source code violates the Salesforce Acceptable Use and External-Facing Services Policy.提示，则返回仓库，>Setting>Repository name修改仓库名。**|
 |**选择不向任何网站转传是为了更长久的相聚，愿你能发现墙外美好而又有趣的地方。**|
 |**带有删除线的部分表示不适用或已经废弃。**|
 |**自2021.11.18起不再部署caddy，改为单一部署以减少项目大小，提高项目稳定性，不保证本项目有被封的可能。**|
