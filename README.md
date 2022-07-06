@@ -12,7 +12,7 @@
 |**带有删除线的部分表示不适用或已经废弃。**|
 |**自2021.11.18起不再部署caddy，改为单一部署以减少项目大小，提高项目稳定性，不保证本项目有被封的可能。**|
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/GreenKaylin/Vless02.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/WizaNoemie/Lss-tro-20220706.git)
 
 # VLESS Client Setup
 
