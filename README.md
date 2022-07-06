@@ -1,4 +1,4 @@
-# VLESS-heroku
+# VLESS-heroku  Trojan-heroku
 ## Deploy VLESS and Trojan server on heroku
 
 ## Do not promote any website
